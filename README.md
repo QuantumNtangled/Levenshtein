@@ -7,7 +7,7 @@ Added methods to extract actual confidence percentages for usability.
 
 Steps to Use:
 
-1. Run the Progrem
+1. Run the Program
 2. Enter first phrase
 3. Enter Second Phrase
 4. View the percentage difference between the two.
